@@ -14,7 +14,7 @@ Utilizei o "Copilot" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/EdsonSousa1974/lab-natty-or-not/blob/main/exemplos/eBook%20-%20Projeto_SeDestacandoPos50.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência importante para enterdermos melhor o poder e o alcance que IAs podem chegar e como elas podem ser aplicadas em diferentes contextos.
